@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 body {
   font-family: 'Kalam', cursive;
   font-weight: 400;
-  background-color: rgb(102 91 115);
+  background-color: rgb(53 38 70);
 }
 
 .container {
@@ -52,7 +52,7 @@ body {
 }
 
 .card {
-  background-color: rgb(234 217 249);
+  background-color: rgb(255 252 232);
   padding: 10px;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
   border-radius: 4px;
@@ -63,9 +63,9 @@ body {
   border: 2px solid black;
   text-decoration: none;
   padding: 5px;
-  background-color: rgb(234 217 249);
+  background-color: rgb(255 252 232);
 }
 .button:hover{
-  background-color: rgb(102 91 115);
+  background-color: rgb(53 38 70);
   color:rgb(255, 255, 255);
 }
